@@ -1,10 +1,4 @@
-Certainly! Here's a template for a README file for your open-source project:
-
----
-
 # Deepfake Voice Detection and Fraud Analysis Mobile App
-
-![App Logo](app_logo.png)
 
 ## Introduction
 
