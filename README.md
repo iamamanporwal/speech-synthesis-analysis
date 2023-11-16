@@ -1,4 +1,4 @@
-# Deepfake Voice Detection and Fraud Analysis Mobile App
+# Deepfake Voice Detection and Fraud Analysis Mobile App (Work in Progress)
 
 ## Introduction
 
@@ -7,7 +7,7 @@ Welcome to the Deepfake Voice Detection and Fraud Analysis Mobile App project! T
 
 ## Features
 
-- Deepfake voice detection using state-of-the-art machine learning models.
+- Deepfake voice detection using machine learning models.
 - Speech-to-text conversion to analyze caller content.
 - Text analysis for fraud detection and content analysis.
 - User-friendly mobile app interface.
