@@ -13,6 +13,13 @@ Welcome to the Deepfake Voice Detection and Fraud Analysis Mobile App project! T
 - User-friendly mobile app interface.
 - Real-time call recording and analysis.
 
+## TechStack
+
+- ChatGPT's APi or Open source LLM's for Text analysis.
+- Speech Recognition in hindi (TTS).
+- Tortoise or Custom ML deepfake voice detection model.
+- React native for mobile deployment.
+   
 ### Installation
 
 1. Clone the repository:
